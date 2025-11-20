@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SnapCal AI",
+  "description": "Instantly track your food's calories and macros by snapping a picture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
